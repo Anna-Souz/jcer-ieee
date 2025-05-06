@@ -76,7 +76,7 @@ const AboutUs = () => {
                 >
                   <img
                     // src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80"
-                    src="public\assets\images\events\IEEE_logo_PNG_(2) (1).png"
+                    src="public\assets\images\events\ieeee.png"
                     alt="Students collaborating"
                     // className="rounded-lg shadow-xl"
                   />
