@@ -171,13 +171,23 @@ export interface Event {
       category: 'past'
     },
     {
-      id: '18',
+      id: '19',
       title: 'Annual General Meet',
       description: 'The IEEE Annual General Meeting (AGM) served as a pivotal event for reflecting on the year’s achievements, addressing challenges, and setting a strategic vision for the upcoming year.',
       date: '05 March 2025',
       location: 'Auditorium',
-      image: '/assets/images/events/agm1.jpg',
-      category: 'ongoing',
+      image: '/assets/images/events/agm2025.JPG',
+      category: 'past',
+    },
+    
+    {
+      id: '18',
+      title: 'Model CEO',
+      description: 'The Model CEO event is an interactive Event that provides a experience for students to learn about entrepreneurship and business management.',
+      date: '13 May 2025',
+      location: 'Auditorium',
+      image: '/assets/images/events/model_ceo.jpg',
+      category: 'upcoming',
     },
     
     
