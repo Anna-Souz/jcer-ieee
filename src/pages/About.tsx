@@ -99,7 +99,14 @@ const About = () => {
                 transition={{ duration: 0.8 }}
                 viewport={{ once: true }}
                 className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
-                <img
+                {/* <img
+                  // src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80"
+                  src="public\assets\images\events\1group_photo.jpg"
+
+                  alt="Students collaborating"
+                  className="rounded-lg shadow-xl"
+                /> */}
+                  <img
                   // src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80"
                   src="public\assets\images\events\1group_photo.jpg"
 
