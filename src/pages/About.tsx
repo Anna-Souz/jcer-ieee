@@ -101,7 +101,7 @@ const About = () => {
                 className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
                 <img
                   // src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80"
-                  src="public\assets\images\events\group_photo.jpg"
+                  src="public\assets\images\events\group_photo_agm_2024.jpg"
 
                   alt="Students collaborating"
                   className="rounded-lg shadow-xl"
