@@ -123,11 +123,11 @@ const About = () => {
                   className="rounded-lg shadow-xl"
                 /> */}
             <img
-              // src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80"
-              src="public\assets\images\events\iee.jpg"
-              alt="Students collaborating"
-              className="rounded-lg shadow-xl"
-            />
+  src="/assets/images/events/iee.jpg"
+  alt="IEEE Logo"
+  className="rounded-lg shadow-xl"
+/>
+
             <div className="absolute inset-0 bg-[#00629B]/10 rounded-lg" />
             <div />
           </motion.div>
